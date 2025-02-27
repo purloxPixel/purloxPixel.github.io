@@ -4,12 +4,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #2c2c4e;
-    color: #333;
+    color: #ffffff;
 }
 
 header {
     background-color: #4753bd;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
@@ -21,7 +21,7 @@ header {
 
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
     position: absolute;
